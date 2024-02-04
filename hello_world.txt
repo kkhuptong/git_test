@@ -1,0 +1,2 @@
+Hello, Word!
+This is a revision of the TOP - Git Tutorial on 04.02.2024, 12:21 PM.
